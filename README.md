@@ -1,6 +1,13 @@
 ### CRUD operations
 
-- Register a user
+- Register a user 
+  - validate the request
+  - authorize the request
+  - check if user is already there in the databases
+  - create model
+  - store in database
+  - generate jwt token
+  - send response 
 - Login a user
 - Get user data
 - Add new product
